@@ -1,0 +1,32 @@
+html{
+    background-color: black;
+    
+}
+
+#img1{
+    width: 50%;
+    margin-left:25%;
+    margin-top: 10%;
+    
+    border: solid white 5px;
+    
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+p{
+    color: white;
+    text-align: center;
+
+}
+.lang {
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 20%;
+  }
+  
